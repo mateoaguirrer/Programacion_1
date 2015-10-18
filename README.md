@@ -1,3 +1,4 @@
 # Programacion_1
-Actividad uno de programación . Mateo Aguirre Rivera
+Actividad uno de programación .
+Mateo Aguirre Rivera
 
