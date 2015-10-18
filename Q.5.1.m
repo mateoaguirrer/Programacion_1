@@ -31,7 +31,7 @@ gtext('sinX') % identifica cada curva con una cadena de texto
 gtext('cos(X)')
 gtext('sin(X)+cos(X)')
 gtext('sin(X)-cos(X)') % ver figura 5.69 donde las curvas estan identificadas con textos 
- % graficar las 4 funciones usando steam, en separado subplot
+ % graficar las 4 funciones usando stem, en separado subplot
 axis on;
 axis([0 2*pi -1.5 2]);
 subplot(2,2,1)
