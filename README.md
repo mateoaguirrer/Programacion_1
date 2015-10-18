@@ -19,14 +19,11 @@ legend ('sin(X)','cos(X)','sin(X)+cos(X)','sin(X)-cos(X)','location','Northwest'
 
 - Q.5.9: Si es posible 
 
-- Q.5.18: Una función es par si cumple que:                           Una función es impar si cumple que:
-F(X) = F (-X)                                                             F (-X) = -F(X)
-Así,  
- X2, X4 y X6 son funciones pares                             X, X3 y X5 son funciones impares
+- Q.5.18: Una función es par si cumple que: Una función es impar si cumple que: F(X) = F (-X) y F (-X) = -F(X). Así,X2, X4 y X6 son funciones pares y X, X3 y X5 son funciones impares
 
+- Q.5.19: Si existe una relación, y es que cuando el exponente es par, la función será par y tendrá simetría con el eje de coordenadas; y cuando el exponente es impar la función será impar y tendrá simetría respecto al origen  
 
-
-
+- 
 
 
 
