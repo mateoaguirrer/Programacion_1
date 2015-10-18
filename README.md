@@ -23,7 +23,8 @@ legend ('sin(X)','cos(X)','sin(X)+cos(X)','sin(X)-cos(X)','location','Northwest'
 
 - Q.5.19: Si existe una relación, y es que cuando el exponente es par, la función será par y tendrá simetría con el eje de coordenadas; y cuando el exponente es impar la función será impar y tendrá simetría respecto al origen  
 
-- 
+- Q.5.42: No se puede. A Diferencia de plot que si deja simplificar todo en una sola instrucción, polar no deja hacer esto 
 
+- Q.5.43: Al intentar ingresar una variable como β, devuelve un error diciendo que es un carácter no valido para MATLAB. Después Reemplace beta por β en title y al ejecutar la función aparece un signo de interrogación en el titulo de la grafica, ratificando que no es un carácter valido para MATLAB
 
 
