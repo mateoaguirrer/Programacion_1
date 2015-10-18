@@ -27,4 +27,6 @@ legend ('sin(X)','cos(X)','sin(X)+cos(X)','sin(X)-cos(X)','location','Northwest'
 
 - Q.5.43: Al intentar ingresar una variable como β, devuelve un error diciendo que es un carácter no valido para MATLAB. Después Reemplace beta por β en title y al ejecutar la función aparece un signo de interrogación en el titulo de la grafica, ratificando que no es un carácter valido para MATLAB
 
+- Q.5.58: La variable addMN es la suma de una matriz cuadrada 11x11 cuya diagonal está compuesta por unos (1) y el resto de elementos son ceros (0), y el otro elemento de la suma es la matriz ya mencionada pero invertida, es decir, la diagonal ya empieza desde la derecha bajando hacia la izquierda; al contrario de la matriz original.
+El Propósito es crear una matriz que tenga sus dos diagonales compuestas por unos (1) y que el elemento del centro sea un dos (2), para que al momento de graficar sobresalga sobre los unos (1) 
 
