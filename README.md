@@ -19,6 +19,13 @@ legend ('sin(X)','cos(X)','sin(X)+cos(X)','sin(X)-cos(X)','location','Northwest'
 
 - Q.5.9: Si es posible 
 
+- Q.5.18: Una función es par si cumple que:                           Una función es impar si cumple que:
+F(X) = F (-X)                                                             F (-X) = -F(X)
+Así,  
+ X2, X4 y X6 son funciones pares                             X, X3 y X5 son funciones impares
+
+
+
 
 
 
