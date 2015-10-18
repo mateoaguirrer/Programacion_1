@@ -30,3 +30,17 @@ legend ('sin(X)','cos(X)','sin(X)+cos(X)','sin(X)-cos(X)','location','Northwest'
 - Q.5.58: La variable addMN es la suma de una matriz cuadrada 11x11 cuya diagonal está compuesta por unos (1) y el resto de elementos son ceros (0), y el otro elemento de la suma es la matriz ya mencionada pero invertida, es decir, la diagonal ya empieza desde la derecha bajando hacia la izquierda; al contrario de la matriz original.
 El Propósito es crear una matriz que tenga sus dos diagonales compuestas por unos (1) y que el elemento del centro sea un dos (2), para que al momento de graficar sobresalga sobre los unos (1) 
 
+- P.5.10: En el intervalo de 0 ≤ X ≤ 2π, siempre se cumple que: cos (2X)  = cos^2(X) – sin^2(X)
+
+- P.5.11: Gráficamente y acercándose a los puntos de corte, se puede ver que el seno de X y el coseno de X son aproximadamente iguales en X = 3,930 y X = 0,783
+
+- P.5.12: Gráficamente y acercándose a los puntos de corte, se puede ver que el seno de X y el 3coseno de 2X son aproximadamente iguales en X =0.68, X =2.46, X =4.06 y X = 5.36
+
+- P.5.13: Gráficamente y acercándose a los puntos de corte, se puede ver que el 5seno de T y  T son aproximadamente iguales en T = -2.595, T = 0 y T = 2.595
+
+
+
+
+
+
+
